@@ -20,7 +20,7 @@ public class Shop{
 
         try {
 
-            Order o3 = new Order("Monitor", -50, 2);
+            Order o3 = new Order("Monitor", -50, 0);
 
             System.out.println(o3);
 
